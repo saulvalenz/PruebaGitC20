@@ -1,0 +1,6 @@
+Programa{
+	int contador = 0;
+	for(contador=1; contador<=50;contador++){
+		mostrar "Saúl";
+	}
+}
